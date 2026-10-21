@@ -1,5 +1,7 @@
 # Al-Rimal Energy (Next.js + React Three Fiber)
 
+Live site: https://jesamobona10.github.io/al-rimal-energy/
+
 Concept corporate site for a Saudi oil company. Next.js 15 App Router, React 19, `@react-three/fiber` + `three`.
 
 ```bash
